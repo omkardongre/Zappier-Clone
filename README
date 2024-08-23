@@ -1,0 +1,10 @@
+Hit endpoint if event occur
+
+Zapier webhooks can be used as trigger or  actions
+Action : 
+    send get/post/put/delete request to endpoint when trigger happen
+Trigger :
+    Get the webhook url and add to your website supporting webhooks. On event occur in our website simply
+    send the data to webhook url
+
+
